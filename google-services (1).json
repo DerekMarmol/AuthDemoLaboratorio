@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700366015036",
+    "project_id": "laboratorioprogramacion-d9429",
+    "storage_bucket": "laboratorioprogramacion-d9429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700366015036:android:a3c8a2ddbf8bb2b4735139",
+        "android_client_info": {
+          "package_name": "com.example.authdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4ykcHm4iyGoBA2tZJm3jxr0Nn6InWjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
